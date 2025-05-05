@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajinkya9322
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Java Data structures and Algorithms in Java
+- 🌱 I’m currently learning Data structures and Algorithms in Java
 - 💞️ I’m looking to collaborate on Probelm Solving and Java Realated stuff 
 - 📫 How to reach me naikajinkya83@gmail.com
 - 😄 Pronouns: Ajinkya
